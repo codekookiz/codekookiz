@@ -10,8 +10,7 @@
 
 
   
-**Hi there 👋** <br />
-**👨🏻‍💻 I'm a Full-Stack Engineer**
+## **Hi there 👋** <br /> **👨🏻‍💻 I'm a Full-Stack Engineer**
 
 
 <br /><br />
