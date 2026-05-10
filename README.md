@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=7&height=200&section=header&text=codekookiz%20space&desc=Always%20progressing&descAlignY=66&fontSize=50&animation=twinkling&fontColor=0F2B46&stroke=02303A)
 
-# **Hi there 👋** <br /> **👨🏻‍💻 I'm a Full-Stack Engineer**
+# **Hi there 👋** <br /> **👨🏻‍💻 I'm an AI/Full-Stack Engineer**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:codekookiz@gmail.com)](mailto:codekookiz@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=tistory&link=https:https://kookiz.tistory.com/)](https://kookiz.tistory.com/)
 
 <br />
