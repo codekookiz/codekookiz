@@ -113,14 +113,14 @@ A Spring Boot backend supporting travel route management, authentication, and im
 
 | Project | Main Focus | Repository |
 |---|---|---|
-| Order Management API | Spring Boot, JPA, MySQL | [Repository](https://github.com/codekookiz/sb-orderjpa-server) |
-| YouTube Search API | Spring Boot, Google Open API | [Repository](https://github.com/codekookiz/sb-youtube-server) |
-| Currency Rate API | Spring Boot, Exchange Rates API | [Repository](https://github.com/codekookiz/openapi-currency-rate) |
-| Movie Profit Prediction | Streamlit, Scikit-learn | [Repository](https://github.com/codekookiz/movie-profit-app) |
-| Starbucks Menu Recommendation | Streamlit, Scikit-learn, PyTorch | [Repository](https://github.com/codekookiz/recom-starbucks-app) |
-| Sign Language Translation | TensorFlow, Model Tuning | [Repository](https://github.com/codekookiz/handsign) |
-| Rust Inference CLI | Rust, CLI Inference | [Repository](https://github.com/codekookiz/rust-inference-cli) |
-| Python Inference CLI | Python, CLI Inference | [Repository](https://github.com/codekookiz/python-inference-cli) |
+| Order Management API | Spring Boot, JPA, MySQL | [Repository](https://github.com/codekookiz/order-management-api) |
+| YouTube Search API | Spring Boot, Google Open API | [Repository](https://github.com/codekookiz/youtube-search-api) |
+| Currency Rate API | Spring Boot, Exchange Rates API | [Repository](https://github.com/codekookiz/exchange-rate-api) |
+| Movie Profit Prediction | Streamlit, Scikit-learn | [Repository](https://github.com/codekookiz/movie-boxoffice-predictor) |
+| Starbucks Menu Recommendation | Streamlit, Scikit-learn, PyTorch | [Repository](https://github.com/codekookiz/starbucks-recommender) |
+| Sign Language Translation | TensorFlow, Model Tuning | [Repository](https://github.com/codekookiz/sign-language-translator) |
+| Rust Inference CLI | Rust, CLI Inference | [Repository](https://github.com/codekookiz/rust-neural-engine) |
+| Python Inference CLI | Python, CLI Inference | [Repository](https://github.com/codekookiz/python-neural-engine) |
 
 ---
 
