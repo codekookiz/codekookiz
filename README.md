@@ -96,16 +96,31 @@ A backend API project covering the main domain functions required for an online 
 
 ---
 
-### ✈️ Spring Boot Travel Route & Photo Sharing API
+### 🧠 Neural Network Inference Engine (Python & Rust)
 
-A Spring Boot backend supporting travel route management, authentication, and image storage.
+A lightweight neural network inference engine implemented in both Python and Rust, exploring model loading, matrix operations, forward propagation, and command-line inference without relying on deep learning frameworks.
 
-**Role:** Individual Project · Backend Development
+**Role:** Individual Project · Neural Network Implementation · Systems Programming
 
 **Tech:**  
-`Java` · `Spring Boot` · `JWT` · `MySQL` · `AWS S3`
 
-🔗 [View Repository](https://github.com/codekookiz/spring-travel-api)
+`Python` · `Rust` · `Linear Algebra` · `CLI` · `Inference Engine`
+
+Key work:
+
+- Implemented forward propagation and matrix operations from scratch
+
+- Built equivalent inference engines in Python and Rust for comparison
+
+- Designed a lightweight model loading and command-line inference pipeline
+
+- Explored implementation differences, performance, and memory management across languages
+
+**Repositories**
+
+- 🦀 [Rust Neural Engine](https://github.com/codekookiz/rust-neural-engine)
+
+- 🐍 [Python Neural Engine](https://github.com/codekookiz/python-neural-engine)
 
 ---
 
@@ -113,14 +128,13 @@ A Spring Boot backend supporting travel route management, authentication, and im
 
 | Project | Main Focus | Repository |
 |---|---|---|
+| Spring Boot Travel API | Spring Boot, JWT, AWS S3 | [Repository](https://github.com/codekookiz/spring-travel-api) |
 | Spring Boot Order Management API | Spring Boot, JPA, MySQL | [Repository](https://github.com/codekookiz/spring-order-api) |
 | Spring Boot YouTube Search API | Spring Boot, Google Open API | [Repository](https://github.com/codekookiz/spring-youtube-api) |
 | Spring Boot Currency Rate API | Spring Boot, Exchange Rates API | [Repository](https://github.com/codekookiz/spring-exchange-api) |
 | Movie Profit Prediction | Streamlit, Scikit-learn | [Repository](https://github.com/codekookiz/movie-boxoffice-predictor) |
 | Starbucks Menu Recommendation | Streamlit, Scikit-learn, PyTorch | [Repository](https://github.com/codekookiz/starbucks-recommender) |
 | Sign Language Translation | TensorFlow, Model Tuning | [Repository](https://github.com/codekookiz/sign-language-translator) |
-| Rust Neural Engine | Rust, CLI Inference | [Repository](https://github.com/codekookiz/rust-neural-engine) |
-| Python Neural Engine | Python, CLI Inference | [Repository](https://github.com/codekookiz/python-neural-engine) |
 
 ---
 
