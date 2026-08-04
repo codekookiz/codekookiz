@@ -119,8 +119,8 @@ A Spring Boot backend supporting travel route management, authentication, and im
 | Movie Profit Prediction | Streamlit, Scikit-learn | [Repository](https://github.com/codekookiz/movie-boxoffice-predictor) |
 | Starbucks Menu Recommendation | Streamlit, Scikit-learn, PyTorch | [Repository](https://github.com/codekookiz/starbucks-recommender) |
 | Sign Language Translation | TensorFlow, Model Tuning | [Repository](https://github.com/codekookiz/sign-language-translator) |
-| Rust Inference CLI | Rust, CLI Inference | [Repository](https://github.com/codekookiz/rust-neural-engine) |
-| Python Inference CLI | Python, CLI Inference | [Repository](https://github.com/codekookiz/python-neural-engine) |
+| Rust Neural Engine | Rust, CLI Inference | [Repository](https://github.com/codekookiz/rust-neural-engine) |
+| Python Neural Engine | Python, CLI Inference | [Repository](https://github.com/codekookiz/python-neural-engine) |
 
 ---
 
