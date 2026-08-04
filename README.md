@@ -63,7 +63,7 @@ Related projects:
 
 ---
 
-### 🤖 LLM Compression — EXAONE Model Optimization
+### 🤖 LLM Compression Lab — EXAONE Model Optimization
 
 A model optimization project comparing multiple compression methods on EXAONE 4.0 1.2B.
 
@@ -79,7 +79,7 @@ Key work:
 - Designed calibration data by sentence length
 - Automated local inference validation and submission packaging
 
-🔗 [View Repository](https://github.com/codekookiz/llm-compression)
+🔗 [View Repository](https://github.com/codekookiz/llm-compression-lab)
 
 ---
 
@@ -92,11 +92,11 @@ A backend API project covering the main domain functions required for an online 
 **Tech:**  
 `Java` · `Spring Boot` · `Spring Data JPA` · `H2 Database`
 
-🔗 [View Repository](https://github.com/codekookiz/ecommerce-api)
+🔗 [View Repository](https://github.com/codekookiz/spring-ecommerce-api)
 
 ---
 
-### ✈️ Travel Route & Photo Sharing API
+### ✈️ Spring Boot Travel Route & Photo Sharing API
 
 A Spring Boot backend supporting travel route management, authentication, and image storage.
 
@@ -105,7 +105,7 @@ A Spring Boot backend supporting travel route management, authentication, and im
 **Tech:**  
 `Java` · `Spring Boot` · `JWT` · `MySQL` · `AWS S3`
 
-🔗 [View Repository](https://github.com/codekookiz/travel-sharing-api)
+🔗 [View Repository](https://github.com/codekookiz/spring-travel-api)
 
 ---
 
@@ -113,9 +113,9 @@ A Spring Boot backend supporting travel route management, authentication, and im
 
 | Project | Main Focus | Repository |
 |---|---|---|
-| Order Management API | Spring Boot, JPA, MySQL | [Repository](https://github.com/codekookiz/order-management-api) |
-| YouTube Search API | Spring Boot, Google Open API | [Repository](https://github.com/codekookiz/youtube-search-api) |
-| Currency Rate API | Spring Boot, Exchange Rates API | [Repository](https://github.com/codekookiz/exchange-rate-api) |
+| Spring Boot Order Management API | Spring Boot, JPA, MySQL | [Repository](https://github.com/codekookiz/spring-order-api) |
+| Spring Boot YouTube Search API | Spring Boot, Google Open API | [Repository](https://github.com/codekookiz/spring-youtube-api) |
+| Spring Boot Currency Rate API | Spring Boot, Exchange Rates API | [Repository](https://github.com/codekookiz/spring-exchange-api) |
 | Movie Profit Prediction | Streamlit, Scikit-learn | [Repository](https://github.com/codekookiz/movie-boxoffice-predictor) |
 | Starbucks Menu Recommendation | Streamlit, Scikit-learn, PyTorch | [Repository](https://github.com/codekookiz/starbucks-recommender) |
 | Sign Language Translation | TensorFlow, Model Tuning | [Repository](https://github.com/codekookiz/sign-language-translator) |
