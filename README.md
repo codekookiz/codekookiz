@@ -21,7 +21,7 @@ Building practical services by connecting
 - Experienced in building services from **data processing and model development to API and client implementation**
 - Led multiple team projects involving **AI, backend, web, mobile, and database integration**
 - Focused on turning technical experiments into services that users can actually operate and understand
-- Currently exploring **LLM optimization, scalable backend systems, and service performance**
+- Currently exploring **LLM optimization, scalable backend systems, distributed architectures, and MLOps**
 
 ---
 
