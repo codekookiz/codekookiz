@@ -38,10 +38,10 @@ A multi-client telemedicine service supporting symptom input, AI-assisted consul
 
 | Repository | Description |
 |---|---|
-| [Silmedy Mobile](https://github.com/CodeWorks-hi/Silmedy) | Android-based patient client application |
-| [Silmedy Mobile Server](https://github.com/CodeWorks-hi/Silmedy-Server) | Flask backend and Hugging Face API integration |
-| [Silmedy Web](https://github.com/CodeWorks-hi/silmedy-web) | React and Next.js web client |
-| [Silmedy Web Server](https://github.com/CodeWorks-hi/silmedy-web-server) | FastAPI backend with DynamoDB, Firestore, and S3 |
+| [Silmedy Mobile](https://github.com/CodeWorks-hi/silmedy-mobile) | Android-based patient client application |
+| [Silmedy Mobile Server](https://github.com/CodeWorks-hi/silmedy-api) | Flask backend and Hugging Face API integration |
+| [Silmedy Web](https://github.com/CodeWorks-hi/silmedy-web-client) | React and Next.js web client |
+| [Silmedy Web Server](https://github.com/CodeWorks-hi/silmedy-web-api) | FastAPI backend with DynamoDB, Firestore, and S3 |
 
 ---
 
@@ -58,8 +58,8 @@ An integrated platform for customers, dealers, and administrators, developed fro
 
 Related projects:
 
-- [Hyundai Customer Analytics](https://github.com/CodeWorks-hi/mini-project-1)
-- [Hyundai & Kia ERP Vehicle Management](https://github.com/CodeWorks-hi/mini-project-2)
+- [Hyundai Customer Analytics](https://github.com/CodeWorks-hi/customer-analytics-platform)
+- [Hyundai & Kia ERP Vehicle Management](https://github.com/CodeWorks-hi/smart-erp-platform)
 
 ---
 
@@ -79,7 +79,7 @@ Key work:
 - Designed calibration data by sentence length
 - Automated local inference validation and submission packaging
 
-🔗 [View Repository](https://github.com/codekookiz/LLM-Compression)
+🔗 [View Repository](https://github.com/codekookiz/llm-compression)
 
 ---
 
@@ -92,7 +92,7 @@ A backend API project covering the main domain functions required for an online 
 **Tech:**  
 `Java` · `Spring Boot` · `Spring Data JPA` · `H2 Database`
 
-🔗 [View Repository](https://github.com/codekookiz/sb-shopping-mall)
+🔗 [View Repository](https://github.com/codekookiz/ecommerce-api)
 
 ---
 
@@ -105,7 +105,7 @@ A Spring Boot backend supporting travel route management, authentication, and im
 **Tech:**  
 `Java` · `Spring Boot` · `JWT` · `MySQL` · `AWS S3`
 
-🔗 [View Repository](https://github.com/codekookiz/sb-travel-server)
+🔗 [View Repository](https://github.com/codekookiz/travel-sharing-api)
 
 ---
 
