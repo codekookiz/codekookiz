@@ -99,6 +99,14 @@ A backend API project covering the main domain functions required for an online 
 **Tech:**  
 `Java` · `Spring Boot` · `Spring Data JPA` · `H2 Database`
 
+Key work:
+
+- Designed product, category, cart, order, and inventory domains
+- Implemented layered architecture using Controller, Service, and Repository components
+- Built JPA entity relationships and transactional business logic
+- Added validation, exception handling, pagination, and API documentation
+- Structured the project for extension to authentication, payment, and external database integration
+
 🔗 [View Repository](https://github.com/codekookiz/spring-ecommerce-api)
 
 ---
