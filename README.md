@@ -4,10 +4,10 @@
 
 # Hi there 👋
 
-### 👨🏻‍💻 AI · Backend · Full-Stack Engineer
+### 👨🏻‍💻 AI · Machine Learning · Backend Engineer
 
 Building practical services by connecting  
-**AI models, data pipelines, backend systems, and user-facing applications.**
+**data, machine learning models, backend systems, and user-facing applications.**
 
 [![Gmail](https://img.shields.io/badge/Gmail-codekookiz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codekookiz@gmail.com)
 
@@ -17,7 +17,7 @@ Building practical services by connecting
 
 ## 🚀 About Me
 
-- Interested in **AI applications, backend engineering, data analysis, and platform development**
+- Interested in **AI applications, machine learning, backend engineering, data analysis, and platform development**
 - Experienced in building services from **data processing and model development to API and client implementation**
 - Led multiple team projects involving **AI, backend, web, mobile, and database integration**
 - Focused on turning technical experiments into services that users can actually operate and understand
@@ -26,6 +26,31 @@ Building practical services by connecting
 ---
 
 ## ⭐ Featured Projects
+
+### 🚗 Hyundai CRM Platform — Customer & Dealer Support Platform
+
+An integrated CRM platform combining customer analytics, vehicle recommendation, AI-assisted consultation, dealer workflows, and inventory automation.
+
+**Role:** Team Leader · ML Modeling · Data Integration · Dealer Hub Development
+
+**Tech:**  
+`Python` · `Streamlit` · `Pandas` · `Scikit-learn` · `LightGBM` · `XGBoost` · `Kafka`
+
+Key work:
+
+- Designed a vehicle recommendation model using Decision Tree, Gradient Boosting, and LightGBM
+- Built customer Q&A and dealer response assistance features
+- Developed the Dealer Hub and connected customer, dealer, and administrator services
+- Implemented an event-driven inventory and production workflow
+
+🔗 [View Repository](https://github.com/CodeWorks-hi/hyundai-crm-platform)
+
+Related projects:
+
+- [Hyundai Customer Analytics](https://github.com/CodeWorks-hi/customer-analytics-platform)
+- [Hyundai & Kia ERP Vehicle Management](https://github.com/CodeWorks-hi/smart-erp-platform)
+
+---
 
 ### 🏥 Silmedy — AI-Based Telemedicine Platform
 
@@ -42,24 +67,6 @@ A multi-client telemedicine service supporting symptom input, AI-assisted consul
 | [Silmedy Mobile Server](https://github.com/CodeWorks-hi/silmedy-api) | Flask backend and Hugging Face API integration |
 | [Silmedy Web](https://github.com/CodeWorks-hi/silmedy-web-client) | React and Next.js web client |
 | [Silmedy Web Server](https://github.com/CodeWorks-hi/silmedy-web-api) | FastAPI backend with DynamoDB, Firestore, and S3 |
-
----
-
-### 🚗 Hyundai CRM Platform — Customer & Dealer Support Platform
-
-An integrated platform for customers, dealers, and administrators, developed from earlier customer analytics and ERP projects.
-
-**Role:** Team Leader · Data Analysis · Service Planning · Platform Integration
-
-**Tech:**  
-`Python` · `Streamlit` · `Machine Learning` · `Real-Time Streaming` · `Customer Analytics`
-
-🔗 [View Repository](https://github.com/CodeWorks-hi/hyundai-crm-platform)
-
-Related projects:
-
-- [Hyundai Customer Analytics](https://github.com/CodeWorks-hi/customer-analytics-platform)
-- [Hyundai & Kia ERP Vehicle Management](https://github.com/CodeWorks-hi/smart-erp-platform)
 
 ---
 
@@ -96,30 +103,25 @@ A backend API project covering the main domain functions required for an online 
 
 ---
 
-### 🧠 Neural Network Inference Engine (Python & Rust)
+### 🧠 Neural Network Engine — Python & Rust
 
-A lightweight neural network inference engine implemented in both Python and Rust, exploring model loading, matrix operations, forward propagation, and command-line inference without relying on deep learning frameworks.
+A lightweight neural network engine implemented in both Python and Rust, exploring matrix operations, forward and backward propagation, model persistence, multi-threaded processing, and command-line inference without relying on deep learning frameworks.
 
 **Role:** Individual Project · Neural Network Implementation · Systems Programming
 
 **Tech:**  
-
-`Python` · `Rust` · `Linear Algebra` · `CLI` · `Inference Engine`
+`Python` · `Rust` · `Linear Algebra` · `Multi-Threading` · `CLI`
 
 Key work:
 
-- Implemented forward propagation and matrix operations from scratch
-
-- Built equivalent inference engines in Python and Rust for comparison
-
-- Designed a lightweight model loading and command-line inference pipeline
-
-- Explored implementation differences, performance, and memory management across languages
+- Implemented matrix operations, activation functions, and propagation logic from scratch
+- Built equivalent neural network engines in Python and Rust
+- Designed model serialization and command-line inference pipelines
+- Compared implementation structure, type systems, concurrency, and memory-management approaches across both languages
 
 **Repositories**
 
 - 🦀 [Rust Neural Engine](https://github.com/codekookiz/rust-neural-engine)
-
 - 🐍 [Python Neural Engine](https://github.com/codekookiz/python-neural-engine)
 
 ---
@@ -193,6 +195,9 @@ Key work:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
@@ -208,13 +213,12 @@ Key work:
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-333333?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ---
