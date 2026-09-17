@@ -90,6 +90,28 @@ Key work:
 
 ---
 
+### ⚾ Pitch Control Prediction — ML Prediction & Validation
+
+A machine learning project predicting pitch control success probability from approximately 1.47 million pitch records, with a focus on reliable validation and data leakage prevention.
+
+**Role:** Individual Project · Data Analysis · ML Modeling · Validation Design
+
+**Tech:**  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Random Forest` · `HistGradientBoosting`
+
+Key work:
+
+- Analyzed approximately 1.47 million pitch records with 49 variables to predict pitch control success probability
+- Identified potential data leakage when using pitcher- and batter-level statistics for missing-value imputation
+- Designed a time-based validation strategy using 2019–2023 data for training and 2024 data for validation
+- Calculated missing-value imputation statistics using training data only and introduced cold-start flags for unseen players
+- Compared Random Forest and HistGradientBoosting models and experimented with hyperparameters and probability calibration
+- Submitted 38 experiment results and finished 519th out of 1,087 participants
+
+🔗 [View Repository](https://github.com/codekookiz/pitch-control-prediction)
+
+---
+
 ### 🛒 Spring Boot Shopping Mall API
 
 A backend API project covering the main domain functions required for an online shopping service.
